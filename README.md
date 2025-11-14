@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Eliot Gevers!
 
-<!--
-**eliotgevers/eliotgevers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aerospace engineering enthusiast, maker, and software developer based in Brussels, Belgium. Passionate about making aerospace accessible to everyone through my non-profit initiative, AeroVia. I love tinkering with electronics and DIY projects, like building a video doorbell or electric scooter.
 
-Here are some ideas to get you started:
+- Founder of [AeroVia](https://aerovia.org/), a non-profit platform dedicated to aerospace education and community building.
+- Aerospace nerd with a focus on space advocacy, rocketry, and innovative technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌍 Location:** Brussels, Belgium  
+
+## 💻 Skills
+### Programming
+- Web Development
+- JavaScript
+- Python
+- C++
+
+### Manufacturing & Hardware
+- MIG Welding
+- Electronics
+- 3D Printing
+- CNC Design
+
+### Design Tools
+- Fusion 360
+- Onshape
+- CATIA
+- KiCad
+
+## 📫 Connect with Me
+- Website: [eliotgevers.com](https://eliotgevers.com)
+- LinkedIn: [linkedin.com/in/eliotgevers](https://be.linkedin.com/in/eliotgevers)
+- X: [@EliotGevers](https://x.com/EliotGevers)
+
+Feel free to reach out if you want to collaborate on aerospace projects or to chat!
