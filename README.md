@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Eliot Gevers!
-
 I'm an aerospace engineering enthusiast, maker, and software developer based in Brussels, Belgium. Passionate about making aerospace accessible to everyone through my non-profit initiative, AeroVia. I love tinkering with electronics and DIY projects, like building a video doorbell or electric scooter.
 
 - Founder of [AeroVia](https://aerovia.org/), a non-profit platform dedicated to aerospace education and community building.
@@ -8,19 +6,19 @@ I'm an aerospace engineering enthusiast, maker, and software developer based in 
 **🌍 Location:** Brussels, Belgium  
 
 ## 💻 Skills
-### Programming
+**Programming**
 - Web Development
 - JavaScript
 - Python
 - C++
 
-### Manufacturing & Hardware
+**Manufacturing & Hardware**
 - MIG Welding
 - Electronics
 - 3D Printing
 - CNC Design
 
-### Design Tools
+**Design Tools**
 - Fusion 360
 - Onshape
 - CATIA
