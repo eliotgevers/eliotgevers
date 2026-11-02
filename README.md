@@ -1,13 +1,14 @@
-I'm an aerospace engineering enthusiast, maker, and software developer based in Brussels, Belgium. Passionate about making aerospace accessible to everyone through my non-profit initiative, AeroVia. I love tinkering with electronics and DIY projects, like building a video doorbell or electric scooter.
+I'm an aerospace engineering enthusiast, maker, and software developer based in Brussels, Belgium. Passionate about making aerospace accessible to everyone through my non-profit initiative, AeroVia. I love tinkering with electronics and DIY projects, like building an [electric scooter](https://www.eliotgevers.com/electric-scooter) or [video doorbell](https://www.eliotgevers.com/video-doorbell).
 
 - Founder of [AeroVia](https://aerovia.org/), a non-profit platform dedicated to aerospace education and community building.
-- Aerospace nerd with a focus on space advocacy, rocketry, and innovative technologies.
+- Aerospace nerd with a focus on space, manufacturing, rocketry, and software.
 
 **🌍 Location:** Brussels, Belgium  
 
 ## 💻 Skills
 **Programming**
 - Web Development
+- Mobile Development
 - JavaScript
 - Python
 - C++
@@ -29,4 +30,4 @@ I'm an aerospace engineering enthusiast, maker, and software developer based in 
 - LinkedIn: [linkedin.com/in/eliotgevers](https://be.linkedin.com/in/eliotgevers)
 - X: [@EliotGevers](https://x.com/EliotGevers)
 
-Feel free to reach out if you want to collaborate on aerospace projects or to chat!
+Feel free to reach out if you want to collaborate or chat!
